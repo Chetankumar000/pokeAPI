@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CDMistry\\source\\repos\\pokeAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B199D8-EDD5-4753-9C07-04C8C8A09ACD}|PokeAPI.csproj|c:\\users\\cdmistry\\source\\repos\\pokeapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0B199D8-EDD5-4753-9C07-04C8C8A09ACD}|PokeAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B199D8-EDD5-4753-9C07-04C8C8A09ACD}|PokeAPI.csproj|c:\\users\\cdmistry\\source\\repos\\pokeapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B0B199D8-EDD5-4753-9C07-04C8C8A09ACD}|PokeAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B199D8-EDD5-4753-9C07-04C8C8A09ACD}|PokeAPI.csproj|c:\\users\\cdmistry\\source\\repos\\pokeapi\\pokeapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B0B199D8-EDD5-4753-9C07-04C8C8A09ACD}|PokeAPI.csproj|solutionrelative:pokeapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B199D8-EDD5-4753-9C07-04C8C8A09ACD}|PokeAPI.csproj|c:\\users\\cdmistry\\source\\repos\\pokeapi\\pokeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B0B199D8-EDD5-4753-9C07-04C8C8A09ACD}|PokeAPI.csproj|solutionrelative:pokeapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 453,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\CDMistry\\source\\repos\\pokeAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\CDMistry\\source\\repos\\pokeAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T17:03:59.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\CDMistry\\source\\repos\\pokeAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\CDMistry\\source\\repos\\pokeAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-12T16:53:48.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokeAPI.http",
+              "DocumentMoniker": "C:\\Users\\CDMistry\\source\\repos\\pokeAPI\\PokeAPI.http",
+              "RelativeDocumentMoniker": "PokeAPI.http",
+              "ToolTip": "C:\\Users\\CDMistry\\source\\repos\\pokeAPI\\PokeAPI.http",
+              "RelativeToolTip": "PokeAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-12T16:53:45.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PokeAPI",
+              "DocumentMoniker": "C:\\Users\\CDMistry\\source\\repos\\PokeAPI\\PokeAPI.csproj",
+              "RelativeDocumentMoniker": "PokeAPI.csproj",
+              "ToolTip": "C:\\Users\\CDMistry\\source\\repos\\PokeAPI\\PokeAPI.csproj",
+              "RelativeToolTip": "PokeAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-12T16:51:42.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

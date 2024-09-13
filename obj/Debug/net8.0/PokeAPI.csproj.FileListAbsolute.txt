@@ -1,0 +1,7 @@
+C:\Users\CDMistry\source\repos\PokeAPI\obj\Debug\net8.0\PokeAPI.csproj.AssemblyReference.cache
+C:\Users\CDMistry\source\repos\PokeAPI\obj\Debug\net8.0\PokeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CDMistry\source\repos\PokeAPI\obj\Debug\net8.0\PokeAPI.AssemblyInfoInputs.cache
+C:\Users\CDMistry\source\repos\PokeAPI\obj\Debug\net8.0\PokeAPI.AssemblyInfo.cs
+C:\Users\CDMistry\source\repos\PokeAPI\obj\Debug\net8.0\PokeAPI.csproj.CoreCompileInputs.cache
+C:\Users\CDMistry\source\repos\PokeAPI\obj\Debug\net8.0\PokeAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\CDMistry\source\repos\PokeAPI\obj\Debug\net8.0\PokeAPI.MvcApplicationPartsAssemblyInfo.cache
